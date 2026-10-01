@@ -1,8 +1,7 @@
 ---
-
 title: "Helia Tajabadi"
 page-layout: full
------------------
+---
 
 # Helia Tajabadi
 
@@ -21,7 +20,43 @@ Through my coursework and projects, I have been exploring the connection between
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-
 ### [Projects →](projects.qmd)
 
 Selected academic and technical projects, including work in machine learning, signal processing, probability, and embedded systems.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [CV →](cv.qmd)
+
+My academic background, education, experience, achievements, and other professional information.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Research Interests →](interests.qmd)
+
+Topics I am interested in exploring, including machine learning, signal processing, image processing, and high-dimensional data.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Academic Background →](background.qmd)
+
+My coursework and mathematical and technical preparation throughout my undergraduate studies.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Contact →](contact.qmd)
+
+Information on how to get in touch with me regarding academic and research opportunities.
+:::
+
+:::
+
+---
+
+## Currently Exploring
+
+**Machine Learning · Signal Processing · High-Dimensional Data · Image Processing · Probability**
+
+---
+
+[GitHub](https://github.com/HeliaTJB)
