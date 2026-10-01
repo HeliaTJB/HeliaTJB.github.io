@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+I am always interested in connecting with students, researchers, and academics working in areas related to my interests.
+
+## Email
+
+[Your Email](mailto:your-email@example.com)
+
+## GitHub
+
+[github.com/HeliaTJB](https://github.com/HeliaTJB)
+
+---
+
+If you are interested in discussing research, academic projects, or potential collaborations, feel free to get in touch.

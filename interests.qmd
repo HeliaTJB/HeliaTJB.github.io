@@ -1,0 +1,27 @@
+---
+title: "Research Interests"
+---
+
+# Research Interests
+
+My academic interests are centered around the intersection of mathematics, machine learning, and signal processing.
+
+## Machine Learning
+
+I am interested in understanding the mathematical foundations of machine learning and how different learning approaches can be used to extract meaningful structure from data.
+
+## Signal Processing
+
+Signals and Systems introduced me to the mathematical representation and analysis of signals. This led to a growing interest in signal processing and its applications to real-world data.
+
+## Image Processing
+
+I am particularly interested in image processing as a connection between signal processing, mathematics, and machine learning, especially in extracting meaningful information from complex visual data.
+
+## High-Dimensional Data
+
+I am interested in the mathematical challenges that arise when working with high-dimensional data, including probabilistic methods and statistical learning.
+
+## Probability & Statistics
+
+Probability and statistics form an important part of my mathematical background and are areas I would like to explore further in the context of machine learning and data analysis.

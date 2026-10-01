@@ -1,0 +1,47 @@
+---
+title: "Academic Background"
+---
+
+# Academic Background
+
+## Education
+
+### Sharif University of Technology
+
+**B.Sc. in Electrical Engineering**
+
+My undergraduate studies have provided me with a foundation in mathematics, probability, statistics, signal processing, and machine learning.
+
+## Mathematical Background
+
+My mathematical preparation includes coursework and independent study in:
+
+- Linear Algebra
+- Probability
+- Statistics
+- High-Dimensional Probability
+- Mathematical Analysis
+
+These subjects have shaped my interest in understanding the mathematical structure behind machine learning and data-driven problems.
+
+## Relevant Coursework
+
+### Machine Learning
+
+Introduced me to fundamental machine learning concepts and probabilistic approaches to learning.
+
+### Signals and Systems
+
+Provided a mathematical foundation for analyzing and representing signals and led to my interest in signal and image processing.
+
+### Probability and Statistics
+
+Developed my understanding of uncertainty, random variables, statistical inference, and probabilistic reasoning.
+
+### Linear Algebra
+
+Provided essential mathematical tools for working with high-dimensional data and machine learning methods.
+
+## Mathematics
+
+My interest in mathematics also developed through participation in the Iranian National Mathematics Olympiad, where I received a bronze medal.
