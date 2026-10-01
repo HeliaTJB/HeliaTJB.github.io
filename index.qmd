@@ -26,10 +26,10 @@ Selected academic and technical projects, including work in machine learning, si
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-### [CV →](cv.qmd)
+### [CV →](assets/files/Helia_Tajabadi_CV.pdf)
 
 My academic background, education, experience, achievements, and other professional information.
-:::
+
 
 ::: {.g-col-12 .g-col-md-6}
 ### [Research Interests →](interests.qmd)
