@@ -1,7 +1,27 @@
 ---
+
 title: "Helia Tajabadi"
+page-layout: full
+-----------------
+
+# Helia Tajabadi
+
+### Electrical Engineering Student
+
+I am an Electrical Engineering student at Sharif University of Technology with a growing interest in the mathematical foundations of machine learning and signal processing.
+
+My academic interests have developed through coursework in probability, statistics, linear algebra, machine learning, and signals and systems. I am particularly interested in high-dimensional data, image processing, and probabilistic approaches to learning.
+
+Through my coursework and projects, I have been exploring the connection between mathematical theory, computational methods, and real-world problems.
+
 ---
 
-# Welcome
+## Explore
 
-Hi! I'm Helia Tajabadi, an Electrical Engineering student at Sharif University of Tecnology interested in machine learning and signal processing.
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### [Projects →](projects.qmd)
+
+Selected academic and technical projects, including work in machine learning, signal processing, probability, and embedded systems.
