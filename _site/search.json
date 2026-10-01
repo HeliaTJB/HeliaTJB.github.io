@@ -1,9 +1,163 @@
 [
   {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Research Interests",
+    "section": "",
+    "text": "My academic interests are centered around the intersection of mathematics, machine learning, and signal processing.\n\n\nI am interested in understanding the mathematical foundations of machine learning and how different learning approaches can be used to extract meaningful structure from data.\n\n\n\nSignals and Systems introduced me to the mathematical representation and analysis of signals. This led to a growing interest in signal processing and its applications to real-world data.\n\n\n\nI am particularly interested in image processing as a connection between signal processing, mathematics, and machine learning, especially in extracting meaningful information from complex visual data.\n\n\n\nI am interested in the mathematical challenges that arise when working with high-dimensional data, including probabilistic methods and statistical learning.\n\n\n\nProbability and statistics form an important part of my mathematical background and are areas I would like to explore further in the context of machine learning and data analysis."
+  },
+  {
+    "objectID": "interests.html#machine-learning",
+    "href": "interests.html#machine-learning",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I am interested in understanding the mathematical foundations of machine learning and how different learning approaches can be used to extract meaningful structure from data."
+  },
+  {
+    "objectID": "interests.html#signal-processing",
+    "href": "interests.html#signal-processing",
+    "title": "Research Interests",
+    "section": "",
+    "text": "Signals and Systems introduced me to the mathematical representation and analysis of signals. This led to a growing interest in signal processing and its applications to real-world data."
+  },
+  {
+    "objectID": "interests.html#image-processing",
+    "href": "interests.html#image-processing",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I am particularly interested in image processing as a connection between signal processing, mathematics, and machine learning, especially in extracting meaningful information from complex visual data."
+  },
+  {
+    "objectID": "interests.html#high-dimensional-data",
+    "href": "interests.html#high-dimensional-data",
+    "title": "Research Interests",
+    "section": "",
+    "text": "I am interested in the mathematical challenges that arise when working with high-dimensional data, including probabilistic methods and statistical learning."
+  },
+  {
+    "objectID": "interests.html#probability-statistics",
+    "href": "interests.html#probability-statistics",
+    "title": "Research Interests",
+    "section": "",
+    "text": "Probability and statistics form an important part of my mathematical background and are areas I would like to explore further in the context of machine learning and data analysis."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a selection of academic and technical projects I have worked on through coursework and independent exploration.\n\n\n\n\nA study of Tanaka’s Central Limit Theorem, focusing on its mathematical foundations and theoretical understanding.\nTopics: Probability · Statistics · Mathematical Analysis\n\n\n\n\n\n\n\nA machine learning project exploring anomaly detection in sequential data using One-Class SVM and Hidden Markov Models.\nTopics: Machine Learning · Anomaly Detection · HMM · One-Class SVM\n\n\n\n\n\n\n\nA study of two-dimensional Fourier transforms, Fresnel and Fraunhofer approximations, and diffraction through different apertures using theoretical analysis and Python simulations.\nTopics: Signal Processing · Fourier Transform · Image Formation · Python\n\n\n\n\n\n\n\nAn embedded systems project involving ESP8266-based remote control, OTA firmware updates, configuration management, and network communication.\nTopics: ESP8266 · IoT · Embedded Systems · OTA"
+  },
+  {
+    "objectID": "projects.html#mathematical-statistical-projects",
+    "href": "projects.html#mathematical-statistical-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A study of Tanaka’s Central Limit Theorem, focusing on its mathematical foundations and theoretical understanding.\nTopics: Probability · Statistics · Mathematical Analysis"
+  },
+  {
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
+    "title": "Projects",
+    "section": "",
+    "text": "A machine learning project exploring anomaly detection in sequential data using One-Class SVM and Hidden Markov Models.\nTopics: Machine Learning · Anomaly Detection · HMM · One-Class SVM"
+  },
+  {
+    "objectID": "projects.html#signal-processing-imaging",
+    "href": "projects.html#signal-processing-imaging",
+    "title": "Projects",
+    "section": "",
+    "text": "A study of two-dimensional Fourier transforms, Fresnel and Fraunhofer approximations, and diffraction through different apertures using theoretical analysis and Python simulations.\nTopics: Signal Processing · Fourier Transform · Image Formation · Python"
+  },
+  {
+    "objectID": "projects.html#embedded-systems-iot",
+    "href": "projects.html#embedded-systems-iot",
+    "title": "Projects",
+    "section": "",
+    "text": "An embedded systems project involving ESP8266-based remote control, OTA firmware updates, configuration management, and network communication.\nTopics: ESP8266 · IoT · Embedded Systems · OTA"
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Academic Background",
+    "section": "",
+    "text": "B.Sc. in Electrical Engineering\nMy undergraduate studies have provided me with a foundation in mathematics, probability, statistics, signal processing, and machine learning.\n\n\n\n\nMy mathematical preparation includes coursework and independent study in:\n\nLinear Algebra\nProbability\nStatistics\nHigh-Dimensional Probability\nMathematical Analysis\n\nThese subjects have shaped my interest in understanding the mathematical structure behind machine learning and data-driven problems.\n\n\n\n\n\nIntroduced me to fundamental machine learning concepts and probabilistic approaches to learning.\n\n\n\nProvided a mathematical foundation for analyzing and representing signals and led to my interest in signal and image processing.\n\n\n\nDeveloped my understanding of uncertainty, random variables, statistical inference, and probabilistic reasoning.\n\n\n\nProvided essential mathematical tools for working with high-dimensional data and machine learning methods.\n\n\n\n\nMy interest in mathematics also developed through participation in the Iranian National Mathematics Olympiad, where I received a bronze medal."
+  },
+  {
+    "objectID": "background.html#education",
+    "href": "background.html#education",
+    "title": "Academic Background",
+    "section": "",
+    "text": "B.Sc. in Electrical Engineering\nMy undergraduate studies have provided me with a foundation in mathematics, probability, statistics, signal processing, and machine learning."
+  },
+  {
+    "objectID": "background.html#mathematical-background",
+    "href": "background.html#mathematical-background",
+    "title": "Academic Background",
+    "section": "",
+    "text": "My mathematical preparation includes coursework and independent study in:\n\nLinear Algebra\nProbability\nStatistics\nHigh-Dimensional Probability\nMathematical Analysis\n\nThese subjects have shaped my interest in understanding the mathematical structure behind machine learning and data-driven problems."
+  },
+  {
+    "objectID": "background.html#relevant-coursework",
+    "href": "background.html#relevant-coursework",
+    "title": "Academic Background",
+    "section": "",
+    "text": "Introduced me to fundamental machine learning concepts and probabilistic approaches to learning.\n\n\n\nProvided a mathematical foundation for analyzing and representing signals and led to my interest in signal and image processing.\n\n\n\nDeveloped my understanding of uncertainty, random variables, statistical inference, and probabilistic reasoning.\n\n\n\nProvided essential mathematical tools for working with high-dimensional data and machine learning methods."
+  },
+  {
+    "objectID": "background.html#mathematics",
+    "href": "background.html#mathematics",
+    "title": "Academic Background",
+    "section": "",
+    "text": "My interest in mathematics also developed through participation in the Iranian National Mathematics Olympiad, where I received a bronze medal."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am always interested in connecting with students, researchers, and academics working in areas related to my interests.\n\n\nYour Email\n\n\n\ngithub.com/HeliaTJB\n\nIf you are interested in discussing research, academic projects, or potential collaborations, feel free to get in touch."
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "",
+    "text": "Your Email"
+  },
+  {
+    "objectID": "contact.html#github",
+    "href": "contact.html#github",
+    "title": "Contact",
+    "section": "",
+    "text": "github.com/HeliaTJB\n\nIf you are interested in discussing research, academic projects, or potential collaborations, feel free to get in touch."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Helia Tajabadi",
     "section": "",
-    "text": "Welcome\nHi! I’m Helia Tajabadi, an Electrical Engineering student at Sharif University of Tecnology interested in machine learning and signal processing."
+    "text": "Electrical Engineering Student Sharif University of Technology\n\n\nExploring the mathematical foundations of machine learning and signal processing."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Helia Tajabadi",
+    "section": "About",
+    "text": "About\nI am an Electrical Engineering student at Sharif University of Technology with a growing interest in mathematics, machine learning, and signal processing.\nMy interests have developed through coursework in probability, statistics, linear algebra, machine learning, and signals and systems. I am particularly interested in understanding the mathematical ideas behind learning from data and signal analysis, and I am currently exploring these areas through coursework and academic projects.\nI enjoy working on problems that combine mathematical reasoning with computational methods, and I hope to further develop my research interests through academic research and collaboration."
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Helia Tajabadi",
+    "section": "Explore",
+    "text": "Explore\n\n\n\n01\n\n\nProjects\n\n\nSelected academic and technical projects from my undergraduate studies.\n\nExplore projects → \n\n\n02\n\n\nResearch Interests\n\n\nAreas I am currently interested in exploring through further study and research.\n\nView interests → \n\n\n03\n\n\nAcademic Background\n\n\nMy coursework, mathematical preparation, and academic background.\n\nView background → \n\n\n04\n\n\nCurriculum Vitae\n\n\nEducation, experience, achievements, and additional academic information.\n\nView CV →"
+  },
+  {
+    "objectID": "index.html#current-direction",
+    "href": "index.html#current-direction",
+    "title": "Helia Tajabadi",
+    "section": "Current Direction",
+    "text": "Current Direction\n\n\nAt this stage of my undergraduate studies, I am exploring the intersection of mathematics, machine learning, and signal processing, while continuing to build a stronger theoretical and computational foundation.\n\n\n\n\nGitHub\n·\nContact"
   }
 ]

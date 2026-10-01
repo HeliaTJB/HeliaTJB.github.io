@@ -3,60 +3,105 @@ title: "Helia Tajabadi"
 page-layout: full
 ---
 
-# Helia Tajabadi
+<div class="hero">
 
-### Electrical Engineering Student
+<div class="hero-image">
+<img src="assets/images/profile.jpg" alt="Helia Tajabadi">
+</div>
 
-I am an Electrical Engineering student at Sharif University of Technology with a growing interest in the mathematical foundations of machine learning and signal processing.
+<div class="hero-content">
 
-My academic interests have developed through coursework in probability, statistics, linear algebra, machine learning, and signals and systems. I am particularly interested in high-dimensional data, image processing, and probabilistic approaches to learning.
+<h1>Helia Tajabadi</h1>
 
-Through my coursework and projects, I have been exploring the connection between mathematical theory, computational methods, and real-world problems.
+<p class="subtitle">
+Electrical Engineering Student<br>
+Sharif University of Technology
+</p>
+
+<p class="tagline">
+Exploring the mathematical foundations of machine learning and signal processing.
+</p>
+
+</div>
+
+</div>
+
+---
+
+## About
+
+I am an Electrical Engineering student at Sharif University of Technology with a growing interest in mathematics, machine learning, and signal processing.
+
+My interests have developed through coursework in probability, statistics, linear algebra, machine learning, and signals and systems. I am particularly interested in understanding the mathematical ideas behind learning from data and signal analysis, and I am currently exploring these areas through coursework and academic projects.
+
+I enjoy working on problems that combine mathematical reasoning with computational methods, and I hope to further develop my research interests through academic research and collaboration.
 
 ---
 
 ## Explore
 
-::: {.grid}
+<div class="explore-grid">
 
-::: {.g-col-12 .g-col-md-6}
-### [Projects →](projects.qmd)
+<a class="explore-card" href="projects.qmd">
+<div class="card-number">01</div>
+<h3>Projects</h3>
+<p>
+Selected academic and technical projects from my undergraduate studies.
+</p>
+<span>Explore projects →</span>
+</a>
 
-Selected academic and technical projects, including work in machine learning, signal processing, probability, and embedded systems.
-:::
+<a class="explore-card" href="interests.qmd">
+<div class="card-number">02</div>
+<h3>Research Interests</h3>
+<p>
+Areas I am currently interested in exploring through further study and research.
+</p>
+<span>View interests →</span>
+</a>
 
-::: {.g-col-12 .g-col-md-6}
-### [CV →](assets/files/Helia_Tajabadi_CV.pdf)
+<a class="explore-card" href="background.qmd">
+<div class="card-number">03</div>
+<h3>Academic Background</h3>
+<p>
+My coursework, mathematical preparation, and academic background.
+</p>
+<span>View background →</span>
+</a>
 
-My academic background, education, experience, achievements, and other professional information.
+<a class="explore-card" href="assets/files/Helia_Tajabadi_CV.pdf">
+<div class="card-number">04</div>
+<h3>Curriculum Vitae</h3>
+<p>
+Education, experience, achievements, and additional academic information.
+</p>
+<span>View CV →</span>
+</a>
 
-
-::: {.g-col-12 .g-col-md-6}
-### [Research Interests →](interests.qmd)
-
-Topics I am interested in exploring, including machine learning, signal processing, image processing, and high-dimensional data.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [Academic Background →](background.qmd)
-
-My coursework and mathematical and technical preparation throughout my undergraduate studies.
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [Contact →](contact.qmd)
-
-Information on how to get in touch with me regarding academic and research opportunities.
-:::
-
-:::
+</div>
 
 ---
 
-## Currently Exploring
+## Current Direction
 
-**Machine Learning · Signal Processing · High-Dimensional Data · Image Processing · Probability**
+<div class="direction-box">
+
+<p>
+At this stage of my undergraduate studies, I am exploring the
+intersection of <strong>mathematics, machine learning, and signal processing</strong>,
+while continuing to build a stronger theoretical and computational foundation.
+</p>
+
+</div>
 
 ---
 
-[GitHub](https://github.com/HeliaTJB)
+<div class="home-footer">
+
+<a href="https://github.com/HeliaTJB" target="_blank">GitHub</a>
+
+<span>·</span>
+
+<a href="contact.qmd">Contact</a>
+
+</div>

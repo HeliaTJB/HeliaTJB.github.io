@@ -4,6 +4,42 @@ project:
 website:
   title: "Helia Tajabadi"
 
+  navbar:
+    background: "#0F4C5C"
+    foreground: "#FFFFFF"
+
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: projects.qmd
+        text: Projects
+
+      - href: interests.qmd
+        text: Research Interests
+
+      - href: background.qmd
+        text: Background
+
+      - href: contact.qmd
+        text: Contact
+
+    right:
+      - href: assets/files/Helia_Tajabadi_CV.pdf
+        text: CV
+        target: _blank
+
+  page-footer:
+    left: "© 2026 Helia Tajabadi"
+    right:
+      - icon: github
+        href: https://github.com/HeliaTJB
+        target: _blank
+
 format:
   html:
-    theme: cosmo
+    theme: default
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
