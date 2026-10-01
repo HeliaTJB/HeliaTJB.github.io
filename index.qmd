@@ -69,7 +69,7 @@ My coursework, mathematical preparation, and academic background.
 <span>View background →</span>
 </a>
 
-<a class="explore-card" href="assets/files/Helia_Tajabadi_CV.pdf">
+<a class="explore-card" href="assets/files/HeliaTajabadi_CV.pdf">
 <div class="card-number">04</div>
 <h3>Curriculum Vitae</h3>
 <p>

@@ -25,7 +25,7 @@ website:
         text: Contact
 
     right:
-      - href: assets/files/Helia_Tajabadi_CV.pdf
+      - href: assets/files/HeliaTajabadi_CV.pdf
         text: CV
         target: _blank
 
