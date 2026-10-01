@@ -6,13 +6,14 @@ title: "Projects"
 
 Here is a selection of academic and technical projects I have worked on through coursework and independent exploration.
 
-## Mathematical & Statistical Projects
-
-### Tanaka Central Limit Theorem
+## Tanaka Central Limit Theorem
 
 A study of Tanaka's Central Limit Theorem, focusing on its mathematical foundations and theoretical understanding.
 
 **Topics:** Probability · Statistics · Mathematical Analysis
+
+
+
 [View project on GitHub →](https://github.com/HeliaTJB/tanaka-central-limit-theorem)
 
 ---
@@ -24,17 +25,23 @@ A study of Tanaka's Central Limit Theorem, focusing on its mathematical foundati
 A machine learning project exploring anomaly detection in sequential data using One-Class SVM and Hidden Markov Models.
 
 **Topics:** Machine Learning · Anomaly Detection · HMM · One-Class SVM
+
+
+
 [View project on GitHub →](https://github.com/HeliaTJB/)
 
 ---
 
-## Signal Processing & Imaging
+## Fourier Optics 
 
-### Fourier Optics and Diffraction
 
 A study of two-dimensional Fourier transforms, Fresnel and Fraunhofer approximations, and diffraction through different apertures using theoretical analysis and Python simulations.
 
 **Topics:** Signal Processing · Fourier Transform · Image Formation · Python
+
+
+
+
 [View project on GitHub →](https://github.com/HeliaTJB/Fourier-Optics)
 
 ---
@@ -46,4 +53,7 @@ A study of two-dimensional Fourier transforms, Fresnel and Fraunhofer approximat
 An embedded systems project involving ESP8266-based remote control, OTA firmware updates, configuration management, and network communication.
 
 **Topics:** ESP8266 · IoT · Embedded Systems · OTA
+
+
+
 [View project on GitHub →](https://github.com/HeliaTJB/IoT)

@@ -2,10 +2,6 @@
 title: "Research Interests"
 ---
 
-# Research Interests
-
-My academic interests are centered around the intersection of mathematics, machine learning, and signal processing.
-
 ## Machine Learning
 
 I am interested in understanding the mathematical foundations of machine learning and how different learning approaches can be used to extract meaningful structure from data.

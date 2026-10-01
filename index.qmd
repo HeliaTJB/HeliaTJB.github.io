@@ -1,5 +1,4 @@
 ---
-title: "Helia Tajabadi"
 page-layout: full
 ---
 
@@ -19,7 +18,7 @@ Sharif University of Technology
 </p>
 
 <p class="tagline">
-Exploring the mathematical foundations of machine learning and signal processing.
+Exploring the mathematical foundations of machine learning, optimization and signal processing.
 </p>
 
 </div>
@@ -30,7 +29,7 @@ Exploring the mathematical foundations of machine learning and signal processing
 
 ## About
 
-I am an Electrical Engineering student at Sharif University of Technology with a growing interest in mathematics, machine learning, and signal processing.
+I am an Electrical Engineering student at Sharif University of Technology expecting to graduate in 2028 .
 
 My interests have developed through coursework in probability, statistics, linear algebra, machine learning, and signals and systems. I am particularly interested in understanding the mathematical ideas behind learning from data and signal analysis, and I am currently exploring these areas through coursework and academic projects.
 
@@ -80,19 +79,6 @@ Education, experience, achievements, and additional academic information.
 
 </div>
 
----
-
-## Current Direction
-
-<div class="direction-box">
-
-<p>
-At this stage of my undergraduate studies, I am exploring the
-intersection of <strong>mathematics, machine learning, and signal processing</strong>,
-while continuing to build a stronger theoretical and computational foundation.
-</p>
-
-</div>
 
 ---
 
